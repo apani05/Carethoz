@@ -7,6 +7,16 @@ We aim at creating a Senior Care Marketplace to cater to all senior care needs.
 Finding trusted, insured and authentic senior care services will be made easier using this application. <br />
 Users will be able to choose from a set of services including Caregiver, Mobility, Pet care, etc.*
 
+### Primary Purpose
+The primary purpose of the application is to establish a one-stop solution for all requirements related to senior care.
+
+### Minimum required navigational flow
+User enters the Home page and browse through different categories available in the Menu.
+Navigate through different categories to see service providers.
+Click on any service provider to get redirected to their website URL.
+User can refer a friend through whatsapp.
+User can press on SOS button in case of emergency.
+
 ## Application Document:
 ### 1. Does it accomplish the stated objective? 
 *Yes it accomplishes the stated objective. The primary purpose of the application is to establish a one-stop solution to find trusted, insured and authentic senior care services in different domains such as Caregiver, Mobility, Pet care, etc.*
