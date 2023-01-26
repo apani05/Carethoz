@@ -11,11 +11,11 @@ Users will be able to choose from a set of services including Caregiver, Mobilit
 The primary purpose of the application is to establish a one-stop solution for all requirements related to senior care.
 
 ### Minimum required navigational flow
-User enters the Home page and browse through different categories available in the Menu.
-Navigate through different categories to see service providers.
-Click on any service provider to get redirected to their website URL.
-User can refer a friend through whatsapp.
-User can press on SOS button in case of emergency.
+1. User enters the Home page and browse through different categories available in the Menu.
+2. Navigate through different categories to see service providers.
+3. Click on any service provider to get redirected to their website URL.
+4. User can refer a friend through whatsapp.
+5. User can press on SOS button in case of emergency.
 
 ## Application Document:
 ### 1. Does it accomplish the stated objective? 
